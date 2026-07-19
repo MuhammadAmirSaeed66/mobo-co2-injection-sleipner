@@ -1,0 +1,21 @@
+# R / RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*~
+
+# Runtime caches and new checkpoints
+results/reported/physical_cache/
+results/reported/**/checkpoint_*.rds
+
+# Local environment settings
+.Renviron
+.env

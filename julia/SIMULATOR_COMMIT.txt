@@ -1,0 +1,6 @@
+Repository: https://github.com/MuhammadAmirSaeed66/CO2InjectionModeling.jl.git
+Downloaded commit: 7e031b133800592c0abfad5635e5b61a6bfaaa54
+Downloaded on: 2026-07-19 16:51:03
+
+The simulator source is vendored into julia/CO2InjectionModeling.jl.
+Its original license and attribution files must be retained.

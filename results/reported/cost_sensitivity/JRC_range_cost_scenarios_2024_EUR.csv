@@ -1,0 +1,10 @@
+"scenario_name","capture_eur_per_t","transport_eur_per_t","storage_eur_per_t","total_chain_eur_per_t"
+"base",65,16,20,101
+"all_chain_costs_minus25pct",48.75,12,15,75.75
+"all_chain_costs_plus25pct",81.25,20,25,126.25
+"capture_low_JRC_40",40,16,20,76
+"capture_high_JRC_90",90,16,20,126
+"transport_low_JRC_2",65,2,20,87
+"transport_high_JRC_30",65,30,20,115
+"storage_low_JRC_5",65,16,5,86
+"storage_high_JRC_35",65,16,35,116

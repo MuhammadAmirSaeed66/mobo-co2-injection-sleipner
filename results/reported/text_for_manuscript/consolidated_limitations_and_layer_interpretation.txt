@@ -1,0 +1,8 @@
+SIMULATOR VALIDATION LIMITATION:
+The deterministic repeatability checks establish numerical consistency but do not constitute physical validation. The Sleipner-inspired simulator has not been history matched against field observations and its outputs are interpreted as numerical benchmark responses rather than field forecasts.
+
+GEOLOGICAL UNCERTAINTY LIMITATION:
+The present analysis uses one deterministic geological realization. Uncertainty in facies architecture, permeability, porosity, capillary entry pressure, and seal continuity is therefore not propagated through the optimization. Future work should evaluate each candidate over an ensemble of geological realizations and optimize expected performance together with downside-risk measures.
+
+LAYER INTERPRETATION:
+Published Sleipner studies describe injection near the base of the Utsira Formation followed by buoyant ascent and ponding beneath intraformational mudstone barriers, producing nine seismically imaged plume accumulations. The nine numerical layers in this optimization are therefore treated as candidate reservoir subintervals in a hypothetical multi-interval control study; direct injection into layers 8 and 9 is not presented as a reconstruction of the historical Sleipner well completion, and the overlying caprock remains represented by the closed/sealing boundary.

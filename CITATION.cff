@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "Please cite the associated article when using this repository."
+title: "MOBO for Sleipner-Inspired CO2 Injection Strategy Design"
+type: software
+version: 1.0.0
+date-released: 2026-07-19
+authors:
+  - family-names: "Saeed"
+    given-names: "Muhammad Amir"
+    orcid: "https://orcid.org/0000-0003-1650-8194"
+  - family-names: "Eidsvik"
+    given-names: "Jo"
+    orcid: "https://orcid.org/0000-0002-9757-9252"
+  - family-names: "Candelieri"
+    given-names: "Antonio"
+    orcid: "https://orcid.org/0000-0003-1431-576X"
+repository-code: "https://github.com/ADD-USERNAME/mobo-co2-injection-sleipner"
+preferred-citation:
+  type: article
+  title: "Multi-Objective Bayesian Optimization Framework for CO2 Injection Strategy Design: A Sleipner-Inspired Study"
+  authors:
+    - family-names: "Saeed"
+      given-names: "Muhammad Amir"
+    - family-names: "Eidsvik"
+      given-names: "Jo"
+    - family-names: "Candelieri"
+      given-names: "Antonio"
+  journal: "Geoenergy Science and Engineering"
+  year: 2026

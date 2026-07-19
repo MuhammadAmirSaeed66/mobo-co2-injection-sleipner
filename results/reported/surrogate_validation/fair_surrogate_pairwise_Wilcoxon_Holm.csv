@@ -1,0 +1,10 @@
+"objective","model_1","model_2","mean_difference_model1_minus_model2","p_value_raw","p_value_Holm"
+"f1_retained_integral_m3yr","MNL","MixedKernelGP",0.228933511675766,0.0590582290905367,0.17717468727161
+"f1_retained_integral_m3yr","MNL","RandomForest",0.165183039382189,0.0590582290905367,0.17717468727161
+"f1_retained_integral_m3yr","MixedKernelGP","RandomForest",-0.0637504722935773,0.0590582290905367,0.17717468727161
+"f2_unretained_final_m3","MNL","MixedKernelGP",0.270837443848392,0.0590582290905367,0.17717468727161
+"f2_unretained_final_m3","MNL","RandomForest",0.167242549999398,0.0590582290905367,0.17717468727161
+"f2_unretained_final_m3","MixedKernelGP","RandomForest",-0.103594893848994,0.0590582290905367,0.17717468727161
+"f3_total_cost_eur","MNL","MixedKernelGP",0.236065952445156,0.0590582290905367,0.17717468727161
+"f3_total_cost_eur","MNL","RandomForest",0.202117026772411,0.0590582290905367,0.17717468727161
+"f3_total_cost_eur","MixedKernelGP","RandomForest",-0.0339489256727451,0.0590582290905367,0.17717468727161

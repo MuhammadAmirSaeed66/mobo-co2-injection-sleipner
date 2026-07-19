@@ -1,0 +1,46 @@
+R version 4.4.1 (2024-06-14)
+Platform: aarch64-apple-darwin20
+Running under: macOS 26.5.2
+
+Matrix products: default
+BLAS:   /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib 
+LAPACK: /Library/Frameworks/R.framework/Versions/4.4-arm64/Resources/lib/libRlapack.dylib;  LAPACK version 3.12.0
+
+locale:
+[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+
+time zone: Europe/Rome
+tzcode source: internal
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] ggplot2_4.0.2    JuliaCall_0.17.6 nnet_7.3-20      lhs_1.2.0        tidyr_1.3.2      dplyr_1.2.0     
+
+loaded via a namespace (and not attached):
+  [1] RColorBrewer_1.1-3   rstudioapi_0.18.0    jsonlite_2.0.0       shape_1.4.6.1        magrittr_2.0.4       ggbeeswarm_0.7.3    
+  [7] farver_2.1.2         corrplot_0.95        ragg_1.5.0           GlobalOptions_0.1.3  fs_1.6.6             vctrs_0.7.2         
+ [13] memoise_2.0.1        gganimate_1.0.11     base64enc_0.1-3      htmltools_0.5.9      forcats_1.0.1        progress_1.2.3      
+ [19] curl_7.0.0           distributional_0.6.0 broom_1.0.11         xgboost_3.1.3.1      TTR_0.24.4           parallelly_1.46.1   
+ [25] htmlwidgets_1.6.4    DiceKriging_1.6.1    echarts4r_0.4.6      plotly_4.11.0        zoo_1.8-15           lubridate_1.9.4     
+ [31] cachem_1.1.0         igraph_2.2.1         mime_0.13            lifecycle_1.0.5      iterators_1.0.14     pkgconfig_2.0.3     
+ [37] webshot2_0.1.2       Matrix_1.7-4         R6_2.6.1             fastmap_1.2.0        future_1.69.0        shiny_1.12.1        
+ [43] digest_0.6.39        colorspace_2.1-2     GGally_2.4.0         rayshader_0.37.3     ps_1.9.1             textshaping_1.0.4   
+ [49] akima_0.6-3.6        labeling_0.4.3       randomForest_4.7-1.2 gbm_2.2.3            timechange_0.3.0     httr_1.4.7          
+ [55] polyclip_1.10-7      compiler_4.4.1       withr_3.0.2          doParallel_1.0.17    backports_1.5.0      S7_0.2.1            
+ [61] ggcorrplot_0.1.4.1   viridis_0.6.5        ggstats_0.12.0       hexbin_1.28.5        ggforce_0.5.0        MASS_7.3-65         
+ [67] rappdirs_0.3.4       chromote_0.5.1       tools_4.4.1          vipor_0.4.7          ranger_0.18.0        otel_0.2.0          
+ [73] reactable_0.4.5      beeswarm_0.4.0       scatterpie_0.2.6     quantmod_0.4.28      httpuv_1.6.16        glue_1.8.0          
+ [79] dbscan_1.2.4         promises_1.5.0       grid_4.4.1           Rtsne_0.17           emoa_0.5-3           generics_0.1.4      
+ [85] gtable_0.3.6         websocket_1.4.4      fmsb_0.7.6           data.table_1.18.0    hms_1.1.4            sp_2.2-0            
+ [91] tidygraph_1.3.1      stringr_1.6.0        ggrepel_0.9.6        foreach_1.5.2        pillar_1.11.1        ggdist_3.3.3        
+ [97] ggExtra_0.11.0       yulab.utils_0.2.3    later_1.4.5          circlize_0.4.17      splines_4.4.1        tweenr_2.0.3        
+[103] lattice_0.22-7       survival_3.8-6       tidyselect_1.2.1     miniUI_0.1.2         knitr_1.51           gridExtra_2.3       
+[109] xfun_0.56            graphlayouts_1.2.2   stringi_1.8.7        yaml_2.3.12          lazyeval_0.2.2       ggfun_0.2.0         
+[115] evaluate_1.0.5       codetools_0.2-20     ggraph_2.2.2         tibble_3.3.1         cli_3.6.5            systemfonts_1.3.1   
+[121] xtable_1.8-4         processx_3.8.6       dichromat_2.0-0.1    Rcpp_1.1.1           globals_0.18.0       png_0.1-8           
+[127] ggrastr_1.0.2        parallel_4.4.1       assertthat_0.2.1     rgl_1.3.31           prettyunits_1.2.0    mclust_6.1.2        
+[133] ggalluvial_0.12.5    dygraphs_1.1.1.6     gifski_1.32.0-2      GPfit_1.0-9          listenv_0.10.0       viridisLite_0.4.2   
+[139] rlist_0.4.6.2        scales_1.4.0         xts_0.14.1           ggridges_0.5.7       highcharter_0.9.4    purrr_1.2.1         
+[145] crayon_1.5.3         rlang_1.1.7         

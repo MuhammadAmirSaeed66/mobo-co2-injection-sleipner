@@ -1,0 +1,5 @@
+No external benchmark CSV was found.
+To perform quantitative simulator validation, place a completed 'sleipner_external_benchmark.csv' in the Julia project directory.
+A column template is available at: /Users/dr.amirsaeed/Downloads/NTNU Research/CO2 Research/CO2 storage BO with real data/CO2InjectionModeling.jl/reviewer_revision_FINAL_9layers_EUR_gridonly_outputs/simulator_validation/sleipner_external_benchmark_template.csv
+
+Until reference data are supplied, use the generated limitation paragraph and do not claim field validation.

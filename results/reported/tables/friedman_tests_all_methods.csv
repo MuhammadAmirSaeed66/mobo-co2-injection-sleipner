@@ -1,0 +1,6 @@
+"metric","n_complete_seeds","statistic","df","p_value"
+"final_hypervolume",10,2.52,3,0.471687476293074
+"final_IGD_plus",10,2.04,3,0.56414619919846
+"final_pareto_size",10,14.2959183673469,3,0.00252881596764897
+"spacing_sd",10,10.92,3,0.0121664253671484
+"objective_extent",10,1.8,3,0.614934935782537

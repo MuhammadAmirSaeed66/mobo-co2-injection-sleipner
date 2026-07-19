@@ -1,0 +1,5 @@
+"method","population","n_pareto_rows","max_f1_retained_integral_m3yr","min_f2_unretained_final_m3","min_f3_total_cost_eur"
+"TS","pooled method-specific Pareto designs across all repeated seeds",17,768819823.336136,0,1151681117.12075
+"SCAL","pooled method-specific Pareto designs across all repeated seeds",59,837712163.079185,0,1153699464.30795
+"EHVI","pooled method-specific Pareto designs across all repeated seeds",28,841628904.809238,0,1151977211.40215
+"EPI","pooled method-specific Pareto designs across all repeated seeds",27,828029312.557895,0,1151413627.77392

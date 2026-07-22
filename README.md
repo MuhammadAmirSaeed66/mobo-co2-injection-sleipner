@@ -339,8 +339,6 @@ Until the article DOI is available, cite the repository as:
 }
 ```
 
-The final article DOI and Zenodo software DOI should be added after they become available.
-
 ---
 
 ## 👨‍💻 Lead Author
@@ -378,6 +376,5 @@ If this repository supports your research, please consider:
 
 <div align="center">
 
-**Research code should be transparent, reproducible, and reusable.**
 
 </div>
